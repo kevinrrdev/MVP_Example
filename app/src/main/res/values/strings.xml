@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVP_Example</string>
+    <string name="etCalculatorN1">Introduce el Primer Número</string>
+    <string name="etCalculatorN2">Introduce el Segundo Número</string>
+    <string name="btnCalculator">Calcular</string>
+    <string name="tvHintWait">Esperando resultado</string>
 </resources>
